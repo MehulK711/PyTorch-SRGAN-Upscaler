@@ -48,4 +48,3 @@ Source of original paper results: https://arxiv.org/pdf/1609.04802v5.pdf. The re
 | Set5         | PSNR/SSIM | 29.40 / 0.8472   | 29.22 / 0.8464       |
 | Set14        | PSNR/SSIM | 26.02 / 0.7397   | 26.69 / 0.7315       |
 | BSD100       | PSNR/SSIM | 25.16 / 0.6688   | 26.21 / 0.6903       |
-"# PyTorch-SRGAN-Upscaler" 
